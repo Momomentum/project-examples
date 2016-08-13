@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Panda Vital BLE</string>
+    <string name="connectedStatus">Connected</string>
+    <string name="disconnectedStatus">Disconnected</string>
+    <string name="scanningStatus">Scanning</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
